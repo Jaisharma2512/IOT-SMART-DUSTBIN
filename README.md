@@ -7,20 +7,20 @@ SOFTWARE REQUIREMENTS
 
  The major software requirements Of the project are as follows:
 
-Android Studio
-Google Firebase
-Arduino IDE
-Drivers for USB
-Language – C ++, C
+Android Studio,
+Google Firebase,
+Arduino IDE,
+Drivers for USB,
+Language – C ++, C,
 Operating system – Windows 10,8, MAC, or any another
 
 HARDWARE REQUIREMENTS
 
 The major hardware requirements of the project are as follows:
 
-Microprocessor (Arduino Uno)
-Jumper Wires
-Bread Board
- 2 Ultrasonic Sensors(hc-sr04)
-Node MCU
-Piezo Buzzer FC-07
+Microprocessor (Arduino Uno),
+Jumper Wires,
+Bread Board,
+ 2 Ultrasonic Sensors(hc-sr04),
+Node MCU,
+Piezo Buzzer FC-07.
